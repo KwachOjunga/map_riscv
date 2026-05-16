@@ -8,8 +8,6 @@ A Python-based tooling project for exploring and cross-referencing RISC-V ISA ex
 
 This project was developed as part of the coding challenge for the RISC-V Mentorship Instruction Set Explorer task.
 
----
-
 ## Project Goals
 
 The repository performs three major tasks:
