@@ -45,9 +45,9 @@ python -m unittest discover tests
 The work responsible for tier1 and tier2 work is specified in their respective files.
 
 ```sh
-pyhthon -m tier1.py
+python -m tier1.py
 ```
 
 ```sh
-pyhthon -m tier2.py
+python -m tier2.py
 ```
