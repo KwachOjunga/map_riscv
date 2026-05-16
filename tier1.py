@@ -97,7 +97,6 @@ print("\n")
 print_riscv_table_strict(raw_file)
 print("\n")
 # print(field_names)
-
 # print(extensions_instr)
 # print(len(field_names))
 
